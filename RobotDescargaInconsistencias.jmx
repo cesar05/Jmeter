@@ -107,15 +107,6 @@
             <stringProp name="filename"></stringProp>
           </ResultCollector>
           <hashTree/>
-          <ResultSaver guiclass="ResultSaverGui" testclass="ResultSaver" testname="Save Responses to a file" enabled="true">
-            <stringProp name="FileSaver.filename">D:\Robots\jmeter\Robot_Descarga_Inconsistencias\descargas\Inconsistencias_Planilla_${idEmpresa}_</stringProp>
-            <boolProp name="FileSaver.errorsonly">false</boolProp>
-            <boolProp name="FileSaver.skipautonumber">false</boolProp>
-            <boolProp name="FileSaver.skipsuffix">false</boolProp>
-            <boolProp name="FileSaver.successonly">true</boolProp>
-            <boolProp name="FileSaver.addTimstamp">true</boolProp>
-          </ResultSaver>
-          <hashTree/>
         </hashTree>
       </hashTree>
     </hashTree>
